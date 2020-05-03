@@ -1,0 +1,4044 @@
+{
+  "evals": [],
+  "jsHooks": [],
+  "x": {
+    "attrs": {
+      "77954173920c": {
+        "alpha_stroke": 1,
+        "color": {},
+        "colors": [
+          "#440154FF",
+          "#2A788EFF",
+          "#7AD151FF"
+        ],
+        "hovertemplate": "%{text}",
+        "inherit": true,
+        "legendgroup": {},
+        "mode": "lines",
+        "showlegend": false,
+        "sizes": [
+          10,
+          100
+        ],
+        "spans": [
+          1,
+          20
+        ],
+        "text": {},
+        "type": "scatter",
+        "x": {},
+        "y": {}
+      },
+      "77954173920c.1": {
+        "alpha_stroke": 1,
+        "color": {},
+        "colors": [
+          "#440154FF",
+          "#2A788EFF",
+          "#7AD151FF"
+        ],
+        "fill": "toself",
+        "hoverinfo": "none",
+        "hoveron": "points",
+        "inherit": true,
+        "legendgroup": {},
+        "line": {
+          "color": "transparent"
+        },
+        "mode": "lines",
+        "opacity": 0.5,
+        "showlegend": false,
+        "sizes": [
+          10,
+          100
+        ],
+        "spans": [
+          1,
+          20
+        ],
+        "type": "scatter",
+        "x": {},
+        "ymax": {},
+        "ymin": {}
+      },
+      "77954fd3cf54": {
+        "alpha_stroke": 1,
+        "color": {},
+        "colors": [
+          "#440154FF",
+          "#2A788EFF",
+          "#7AD151FF"
+        ],
+        "hoverinfo": "text",
+        "inherit": true,
+        "legendgroup": {},
+        "marker": {
+          "symbol": "asterisk-open"
+        },
+        "mode": "markers",
+        "showlegend": false,
+        "sizes": [
+          10,
+          100
+        ],
+        "spans": [
+          1,
+          20
+        ],
+        "text": {},
+        "type": "scatter",
+        "x": {},
+        "y": {}
+      },
+      "77955c50ca3b": {
+        "alpha_stroke": 1,
+        "color": {},
+        "colors": [
+          "#440154FF",
+          "#2A788EFF",
+          "#7AD151FF"
+        ],
+        "hovertemplate": "%{text}",
+        "inherit": true,
+        "legendgroup": {},
+        "sizes": [
+          10,
+          100
+        ],
+        "spans": [
+          1,
+          20
+        ],
+        "text": {},
+        "type": "bar",
+        "x": {},
+        "y": {}
+      },
+      "77955fde1dd4": {
+        "alpha_stroke": 1,
+        "color": {},
+        "colors": [
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050",
+          "#505050"
+        ],
+        "hoverinfo": "text",
+        "hoveron": "points",
+        "inherit": true,
+        "mode": "markers+lines",
+        "showlegend": false,
+        "sizes": [
+          10,
+          100
+        ],
+        "spans": [
+          1,
+          20
+        ],
+        "text": {},
+        "type": "scatter",
+        "x": {},
+        "y": {}
+      },
+      "77955fde1dd4.1": {
+        "alpha_stroke": 1,
+        "color": {},
+        "inherit": true,
+        "mode": "text",
+        "showlegend": false,
+        "sizes": [
+          10,
+          100
+        ],
+        "spans": [
+          1,
+          20
+        ],
+        "text": {},
+        "textfont": {
+          "size": 10
+        },
+        "textposition": {},
+        "type": "scatter",
+        "x": {},
+        "y": {}
+      }
+    },
+    "base_url": "https://plot.ly",
+    "config": {
+      "displayModeBar": false,
+      "displaylogo": false,
+      "doubleClick": "reset",
+      "modeBarButtonsToRemove": [
+        "pan2d",
+        "lasso2d",
+        "select2d",
+        "autoScale2d"
+      ],
+      "showSendToCloud": false,
+      "toImageButtonOptions": {
+        "filename": "20200503-rEffEstimationPlot",
+        "format": "png",
+        "height": 1000,
+        "width": 1000
+      }
+    },
+    "data": [
+      {
+        "error_x": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "error_y": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "frame": null,
+        "hovertemplate": [
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}"
+        ],
+        "legendgroup": "Confirmed cases",
+        "marker": {
+          "color": "rgba(68,1,84,1)",
+          "line": {
+            "color": "rgba(68,1,84,1)"
+          }
+        },
+        "name": "Confirmed cases",
+        "text": [
+          "<i>26.02.20</i> <br>2 Confirmed cases<extra></extra>",
+          "<i>27.02.20</i> <br>4 Confirmed cases<extra></extra>",
+          "<i>28.02.20</i> <br>7 Confirmed cases<extra></extra>",
+          "<i>29.02.20</i> <br>9 Confirmed cases<extra></extra>",
+          "<i>01.03.20</i> <br>8 Confirmed cases<extra></extra>",
+          "<i>02.03.20</i> <br>12 Confirmed cases<extra></extra>",
+          "<i>03.03.20</i> <br>19 Confirmed cases<extra></extra>",
+          "<i>04.03.20</i> <br>23 Confirmed cases<extra></extra>",
+          "<i>05.03.20</i> <br>42 Confirmed cases<extra></extra>",
+          "<i>06.03.20</i> <br>68 Confirmed cases<extra></extra>",
+          "<i>07.03.20</i> <br>58 Confirmed cases<extra></extra>",
+          "<i>08.03.20</i> <br>52 Confirmed cases<extra></extra>",
+          "<i>09.03.20</i> <br>87 Confirmed cases<extra></extra>",
+          "<i>10.03.20</i> <br>151 Confirmed cases<extra></extra>",
+          "<i>11.03.20</i> <br>207 Confirmed cases<extra></extra>",
+          "<i>12.03.20</i> <br>297 Confirmed cases<extra></extra>",
+          "<i>13.03.20</i> <br>327 Confirmed cases<extra></extra>",
+          "<i>14.03.20</i> <br>395 Confirmed cases<extra></extra>",
+          "<i>15.03.20</i> <br>284 Confirmed cases<extra></extra>",
+          "<i>16.03.20</i> <br>765 Confirmed cases<extra></extra>",
+          "<i>17.03.20</i> <br>834 Confirmed cases<extra></extra>",
+          "<i>18.03.20</i> <br>1116 Confirmed cases<extra></extra>",
+          "<i>19.03.20</i> <br>997 Confirmed cases<extra></extra>",
+          "<i>20.03.20</i> <br>1159 Confirmed cases<extra></extra>",
+          "<i>21.03.20</i> <br>675 Confirmed cases<extra></extra>",
+          "<i>22.03.20</i> <br>574 Confirmed cases<extra></extra>",
+          "<i>23.03.20</i> <br>1507 Confirmed cases<extra></extra>",
+          "<i>24.03.20</i> <br>1087 Confirmed cases<extra></extra>",
+          "<i>25.03.20</i> <br>1124 Confirmed cases<extra></extra>",
+          "<i>26.03.20</i> <br>1114 Confirmed cases<extra></extra>",
+          "<i>27.03.20</i> <br>1333 Confirmed cases<extra></extra>",
+          "<i>28.03.20</i> <br>832 Confirmed cases<extra></extra>",
+          "<i>29.03.20</i> <br>598 Confirmed cases<extra></extra>",
+          "<i>30.03.20</i> <br>1116 Confirmed cases<extra></extra>",
+          "<i>31.03.20</i> <br>917 Confirmed cases<extra></extra>",
+          "<i>01.04.20</i> <br>1067 Confirmed cases<extra></extra>",
+          "<i>02.04.20</i> <br>1066 Confirmed cases<extra></extra>",
+          "<i>03.04.20</i> <br>966 Confirmed cases<extra></extra>",
+          "<i>04.04.20</i> <br>570 Confirmed cases<extra></extra>",
+          "<i>05.04.20</i> <br>382 Confirmed cases<extra></extra>",
+          "<i>06.04.20</i> <br>742 Confirmed cases<extra></extra>",
+          "<i>07.04.20</i> <br>651 Confirmed cases<extra></extra>",
+          "<i>08.04.20</i> <br>669 Confirmed cases<extra></extra>",
+          "<i>09.04.20</i> <br>669 Confirmed cases<extra></extra>",
+          "<i>10.04.20</i> <br>448 Confirmed cases<extra></extra>",
+          "<i>11.04.20</i> <br>463 Confirmed cases<extra></extra>",
+          "<i>12.04.20</i> <br>272 Confirmed cases<extra></extra>",
+          "<i>13.04.20</i> <br>250 Confirmed cases<extra></extra>",
+          "<i>14.04.20</i> <br>323 Confirmed cases<extra></extra>",
+          "<i>15.04.20</i> <br>322 Confirmed cases<extra></extra>",
+          "<i>16.04.20</i> <br>300 Confirmed cases<extra></extra>",
+          "<i>17.04.20</i> <br>322 Confirmed cases<extra></extra>",
+          "<i>18.04.20</i> <br>285 Confirmed cases<extra></extra>",
+          "<i>19.04.20</i> <br>177 Confirmed cases<extra></extra>",
+          "<i>20.04.20</i> <br>201 Confirmed cases<extra></extra>",
+          "<i>21.04.20</i> <br>163 Confirmed cases<extra></extra>",
+          "<i>22.04.20</i> <br>201 Confirmed cases<extra></extra>",
+          "<i>23.04.20</i> <br>219 Confirmed cases<extra></extra>",
+          "<i>24.04.20</i> <br>191 Confirmed cases<extra></extra>",
+          "<i>25.04.20</i> <br>139 Confirmed cases<extra></extra>",
+          "<i>26.04.20</i> <br>81 Confirmed cases<extra></extra>",
+          "<i>27.04.20</i> <br>167 Confirmed cases<extra></extra>",
+          "<i>28.04.20</i> <br>112 Confirmed cases<extra></extra>",
+          "<i>29.04.20</i> <br>125 Confirmed cases<extra></extra>",
+          "<i>30.04.20</i> <br>132 Confirmed cases<extra></extra>",
+          "<i>01.05.20</i> <br>73 Confirmed cases<extra></extra>",
+          "<i>02.05.20</i> <br>54 Confirmed cases<extra></extra>"
+        ],
+        "textfont": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "type": "bar",
+        "x": [
+          "2020-02-26",
+          "2020-02-27",
+          "2020-02-28",
+          "2020-02-29",
+          "2020-03-01",
+          "2020-03-02",
+          "2020-03-03",
+          "2020-03-04",
+          "2020-03-05",
+          "2020-03-06",
+          "2020-03-07",
+          "2020-03-08",
+          "2020-03-09",
+          "2020-03-10",
+          "2020-03-11",
+          "2020-03-12",
+          "2020-03-13",
+          "2020-03-14",
+          "2020-03-15",
+          "2020-03-16",
+          "2020-03-17",
+          "2020-03-18",
+          "2020-03-19",
+          "2020-03-20",
+          "2020-03-21",
+          "2020-03-22",
+          "2020-03-23",
+          "2020-03-24",
+          "2020-03-25",
+          "2020-03-26",
+          "2020-03-27",
+          "2020-03-28",
+          "2020-03-29",
+          "2020-03-30",
+          "2020-03-31",
+          "2020-04-01",
+          "2020-04-02",
+          "2020-04-03",
+          "2020-04-04",
+          "2020-04-05",
+          "2020-04-06",
+          "2020-04-07",
+          "2020-04-08",
+          "2020-04-09",
+          "2020-04-10",
+          "2020-04-11",
+          "2020-04-12",
+          "2020-04-13",
+          "2020-04-14",
+          "2020-04-15",
+          "2020-04-16",
+          "2020-04-17",
+          "2020-04-18",
+          "2020-04-19",
+          "2020-04-20",
+          "2020-04-21",
+          "2020-04-22",
+          "2020-04-23",
+          "2020-04-24",
+          "2020-04-25",
+          "2020-04-26",
+          "2020-04-27",
+          "2020-04-28",
+          "2020-04-29",
+          "2020-04-30",
+          "2020-05-01",
+          "2020-05-02"
+        ],
+        "xaxis": "x",
+        "y": [
+          2,
+          4,
+          7,
+          9,
+          8,
+          12,
+          19,
+          23,
+          42,
+          68,
+          58,
+          52,
+          87,
+          151,
+          207,
+          297,
+          327,
+          395,
+          284,
+          765,
+          834,
+          1116,
+          997,
+          1159,
+          675,
+          574,
+          1507,
+          1087,
+          1124,
+          1114,
+          1333,
+          832,
+          598,
+          1116,
+          917,
+          1067,
+          1066,
+          966,
+          570,
+          382,
+          742,
+          651,
+          669,
+          669,
+          448,
+          463,
+          272,
+          250,
+          323,
+          322,
+          300,
+          322,
+          285,
+          177,
+          201,
+          163,
+          201,
+          219,
+          191,
+          139,
+          81,
+          167,
+          112,
+          125,
+          132,
+          73,
+          54
+        ],
+        "yaxis": "y"
+      },
+      {
+        "error_x": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "error_y": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "frame": null,
+        "hovertemplate": [
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}"
+        ],
+        "legendgroup": "Hospitalized patients",
+        "marker": {
+          "color": "rgba(42,120,142,1)",
+          "line": {
+            "color": "rgba(42,120,142,1)"
+          }
+        },
+        "name": "Hospitalized patients",
+        "text": [
+          "<i>25.02.20</i> <br>1 Hospitalized patients<extra></extra>",
+          "<i>26.02.20</i> <br>3 Hospitalized patients<extra></extra>",
+          "<i>27.02.20</i> <br>2 Hospitalized patients<extra></extra>",
+          "<i>28.02.20</i> <br>5 Hospitalized patients<extra></extra>",
+          "<i>29.02.20</i> <br>7 Hospitalized patients<extra></extra>",
+          "<i>01.03.20</i> <br>4 Hospitalized patients<extra></extra>",
+          "<i>02.03.20</i> <br>7 Hospitalized patients<extra></extra>",
+          "<i>03.03.20</i> <br>10 Hospitalized patients<extra></extra>",
+          "<i>04.03.20</i> <br>16 Hospitalized patients<extra></extra>",
+          "<i>05.03.20</i> <br>17 Hospitalized patients<extra></extra>",
+          "<i>06.03.20</i> <br>8 Hospitalized patients<extra></extra>",
+          "<i>07.03.20</i> <br>7 Hospitalized patients<extra></extra>",
+          "<i>08.03.20</i> <br>9 Hospitalized patients<extra></extra>",
+          "<i>09.03.20</i> <br>14 Hospitalized patients<extra></extra>",
+          "<i>10.03.20</i> <br>27 Hospitalized patients<extra></extra>",
+          "<i>11.03.20</i> <br>31 Hospitalized patients<extra></extra>",
+          "<i>12.03.20</i> <br>45 Hospitalized patients<extra></extra>",
+          "<i>13.03.20</i> <br>46 Hospitalized patients<extra></extra>",
+          "<i>14.03.20</i> <br>26 Hospitalized patients<extra></extra>",
+          "<i>15.03.20</i> <br>67 Hospitalized patients<extra></extra>",
+          "<i>16.03.20</i> <br>74 Hospitalized patients<extra></extra>",
+          "<i>17.03.20</i> <br>87 Hospitalized patients<extra></extra>",
+          "<i>18.03.20</i> <br>106 Hospitalized patients<extra></extra>",
+          "<i>19.03.20</i> <br>146 Hospitalized patients<extra></extra>",
+          "<i>20.03.20</i> <br>122 Hospitalized patients<extra></extra>",
+          "<i>21.03.20</i> <br>98 Hospitalized patients<extra></extra>",
+          "<i>22.03.20</i> <br>154 Hospitalized patients<extra></extra>",
+          "<i>23.03.20</i> <br>121 Hospitalized patients<extra></extra>",
+          "<i>24.03.20</i> <br>160 Hospitalized patients<extra></extra>",
+          "<i>25.03.20</i> <br>119 Hospitalized patients<extra></extra>",
+          "<i>26.03.20</i> <br>228 Hospitalized patients<extra></extra>",
+          "<i>27.03.20</i> <br>166 Hospitalized patients<extra></extra>",
+          "<i>28.03.20</i> <br>168 Hospitalized patients<extra></extra>",
+          "<i>29.03.20</i> <br>182 Hospitalized patients<extra></extra>",
+          "<i>30.03.20</i> <br>125 Hospitalized patients<extra></extra>",
+          "<i>31.03.20</i> <br>143 Hospitalized patients<extra></extra>",
+          "<i>01.04.20</i> <br>121 Hospitalized patients<extra></extra>",
+          "<i>02.04.20</i> <br>111 Hospitalized patients<extra></extra>",
+          "<i>03.04.20</i> <br>96 Hospitalized patients<extra></extra>",
+          "<i>04.04.20</i> <br>68 Hospitalized patients<extra></extra>",
+          "<i>05.04.20</i> <br>56 Hospitalized patients<extra></extra>",
+          "<i>06.04.20</i> <br>38 Hospitalized patients<extra></extra>",
+          "<i>07.04.20</i> <br>68 Hospitalized patients<extra></extra>",
+          "<i>08.04.20</i> <br>55 Hospitalized patients<extra></extra>",
+          "<i>09.04.20</i> <br>60 Hospitalized patients<extra></extra>",
+          "<i>10.04.20</i> <br>51 Hospitalized patients<extra></extra>",
+          "<i>11.04.20</i> <br>32 Hospitalized patients<extra></extra>",
+          "<i>12.04.20</i> <br>36 Hospitalized patients<extra></extra>",
+          "<i>13.04.20</i> <br>52 Hospitalized patients<extra></extra>",
+          "<i>14.04.20</i> <br>39 Hospitalized patients<extra></extra>",
+          "<i>15.04.20</i> <br>44 Hospitalized patients<extra></extra>",
+          "<i>16.04.20</i> <br>34 Hospitalized patients<extra></extra>",
+          "<i>17.04.20</i> <br>18 Hospitalized patients<extra></extra>",
+          "<i>18.04.20</i> <br>28 Hospitalized patients<extra></extra>",
+          "<i>19.04.20</i> <br>16 Hospitalized patients<extra></extra>",
+          "<i>20.04.20</i> <br>14 Hospitalized patients<extra></extra>",
+          "<i>21.04.20</i> <br>22 Hospitalized patients<extra></extra>",
+          "<i>22.04.20</i> <br>19 Hospitalized patients<extra></extra>",
+          "<i>23.04.20</i> <br>19 Hospitalized patients<extra></extra>",
+          "<i>24.04.20</i> <br>10 Hospitalized patients<extra></extra>",
+          "<i>25.04.20</i> <br>11 Hospitalized patients<extra></extra>",
+          "<i>26.04.20</i> <br>8 Hospitalized patients<extra></extra>",
+          "<i>27.04.20</i> <br>8 Hospitalized patients<extra></extra>",
+          "<i>28.04.20</i> <br>10 Hospitalized patients<extra></extra>",
+          "<i>29.04.20</i> <br>5 Hospitalized patients<extra></extra>",
+          "<i>30.04.20</i> <br>2 Hospitalized patients<extra></extra>"
+        ],
+        "textfont": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "type": "bar",
+        "x": [
+          "2020-02-25",
+          "2020-02-26",
+          "2020-02-27",
+          "2020-02-28",
+          "2020-02-29",
+          "2020-03-01",
+          "2020-03-02",
+          "2020-03-03",
+          "2020-03-04",
+          "2020-03-05",
+          "2020-03-06",
+          "2020-03-07",
+          "2020-03-08",
+          "2020-03-09",
+          "2020-03-10",
+          "2020-03-11",
+          "2020-03-12",
+          "2020-03-13",
+          "2020-03-14",
+          "2020-03-15",
+          "2020-03-16",
+          "2020-03-17",
+          "2020-03-18",
+          "2020-03-19",
+          "2020-03-20",
+          "2020-03-21",
+          "2020-03-22",
+          "2020-03-23",
+          "2020-03-24",
+          "2020-03-25",
+          "2020-03-26",
+          "2020-03-27",
+          "2020-03-28",
+          "2020-03-29",
+          "2020-03-30",
+          "2020-03-31",
+          "2020-04-01",
+          "2020-04-02",
+          "2020-04-03",
+          "2020-04-04",
+          "2020-04-05",
+          "2020-04-06",
+          "2020-04-07",
+          "2020-04-08",
+          "2020-04-09",
+          "2020-04-10",
+          "2020-04-11",
+          "2020-04-12",
+          "2020-04-13",
+          "2020-04-14",
+          "2020-04-15",
+          "2020-04-16",
+          "2020-04-17",
+          "2020-04-18",
+          "2020-04-19",
+          "2020-04-20",
+          "2020-04-21",
+          "2020-04-22",
+          "2020-04-23",
+          "2020-04-24",
+          "2020-04-25",
+          "2020-04-26",
+          "2020-04-27",
+          "2020-04-28",
+          "2020-04-29",
+          "2020-04-30"
+        ],
+        "xaxis": "x",
+        "y": [
+          1,
+          3,
+          2,
+          5,
+          7,
+          4,
+          7,
+          10,
+          16,
+          17,
+          8,
+          7,
+          9,
+          14,
+          27,
+          31,
+          45,
+          46,
+          26,
+          67,
+          74,
+          87,
+          106,
+          146,
+          122,
+          98,
+          154,
+          121,
+          160,
+          119,
+          228,
+          166,
+          168,
+          182,
+          125,
+          143,
+          121,
+          111,
+          96,
+          68,
+          56,
+          38,
+          68,
+          55,
+          60,
+          51,
+          32,
+          36,
+          52,
+          39,
+          44,
+          34,
+          18,
+          28,
+          16,
+          14,
+          22,
+          19,
+          19,
+          10,
+          11,
+          8,
+          8,
+          10,
+          5,
+          2
+        ],
+        "yaxis": "y"
+      },
+      {
+        "error_x": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "error_y": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "frame": null,
+        "hovertemplate": [
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}"
+        ],
+        "legendgroup": "Deaths",
+        "marker": {
+          "color": "rgba(122,209,81,1)",
+          "line": {
+            "color": "rgba(122,209,81,1)"
+          }
+        },
+        "name": "Deaths",
+        "text": [
+          "<i>26.02.20</i> <br>0 Deaths<extra></extra>",
+          "<i>27.02.20</i> <br>0 Deaths<extra></extra>",
+          "<i>28.02.20</i> <br>0 Deaths<extra></extra>",
+          "<i>29.02.20</i> <br>0 Deaths<extra></extra>",
+          "<i>01.03.20</i> <br>0 Deaths<extra></extra>",
+          "<i>02.03.20</i> <br>0 Deaths<extra></extra>",
+          "<i>03.03.20</i> <br>0 Deaths<extra></extra>",
+          "<i>04.03.20</i> <br>0 Deaths<extra></extra>",
+          "<i>05.03.20</i> <br>0 Deaths<extra></extra>",
+          "<i>06.03.20</i> <br>1 Deaths<extra></extra>",
+          "<i>07.03.20</i> <br>0 Deaths<extra></extra>",
+          "<i>08.03.20</i> <br>1 Deaths<extra></extra>",
+          "<i>09.03.20</i> <br>0 Deaths<extra></extra>",
+          "<i>10.03.20</i> <br>2 Deaths<extra></extra>",
+          "<i>11.03.20</i> <br>1 Deaths<extra></extra>",
+          "<i>12.03.20</i> <br>4 Deaths<extra></extra>",
+          "<i>13.03.20</i> <br>1 Deaths<extra></extra>",
+          "<i>14.03.20</i> <br>3 Deaths<extra></extra>",
+          "<i>15.03.20</i> <br>8 Deaths<extra></extra>",
+          "<i>16.03.20</i> <br>9 Deaths<extra></extra>",
+          "<i>17.03.20</i> <br>7 Deaths<extra></extra>",
+          "<i>18.03.20</i> <br>9 Deaths<extra></extra>",
+          "<i>19.03.20</i> <br>9 Deaths<extra></extra>",
+          "<i>20.03.20</i> <br>23 Deaths<extra></extra>",
+          "<i>21.03.20</i> <br>20 Deaths<extra></extra>",
+          "<i>22.03.20</i> <br>15 Deaths<extra></extra>",
+          "<i>23.03.20</i> <br>30 Deaths<extra></extra>",
+          "<i>24.03.20</i> <br>22 Deaths<extra></extra>",
+          "<i>25.03.20</i> <br>35 Deaths<extra></extra>",
+          "<i>26.03.20</i> <br>45 Deaths<extra></extra>",
+          "<i>27.03.20</i> <br>37 Deaths<extra></extra>",
+          "<i>28.03.20</i> <br>52 Deaths<extra></extra>",
+          "<i>29.03.20</i> <br>44 Deaths<extra></extra>",
+          "<i>30.03.20</i> <br>61 Deaths<extra></extra>",
+          "<i>31.03.20</i> <br>65 Deaths<extra></extra>",
+          "<i>01.04.20</i> <br>63 Deaths<extra></extra>",
+          "<i>02.04.20</i> <br>61 Deaths<extra></extra>",
+          "<i>03.04.20</i> <br>61 Deaths<extra></extra>",
+          "<i>04.04.20</i> <br>66 Deaths<extra></extra>",
+          "<i>05.04.20</i> <br>52 Deaths<extra></extra>",
+          "<i>06.04.20</i> <br>59 Deaths<extra></extra>",
+          "<i>07.04.20</i> <br>60 Deaths<extra></extra>",
+          "<i>08.04.20</i> <br>68 Deaths<extra></extra>",
+          "<i>09.04.20</i> <br>51 Deaths<extra></extra>",
+          "<i>10.04.20</i> <br>50 Deaths<extra></extra>",
+          "<i>11.04.20</i> <br>38 Deaths<extra></extra>",
+          "<i>12.04.20</i> <br>56 Deaths<extra></extra>",
+          "<i>13.04.20</i> <br>30 Deaths<extra></extra>",
+          "<i>14.04.20</i> <br>38 Deaths<extra></extra>",
+          "<i>15.04.20</i> <br>53 Deaths<extra></extra>",
+          "<i>16.04.20</i> <br>45 Deaths<extra></extra>",
+          "<i>17.04.20</i> <br>46 Deaths<extra></extra>",
+          "<i>18.04.20</i> <br>42 Deaths<extra></extra>",
+          "<i>19.04.20</i> <br>24 Deaths<extra></extra>",
+          "<i>20.04.20</i> <br>42 Deaths<extra></extra>",
+          "<i>21.04.20</i> <br>41 Deaths<extra></extra>",
+          "<i>22.04.20</i> <br>27 Deaths<extra></extra>",
+          "<i>23.04.20</i> <br>30 Deaths<extra></extra>",
+          "<i>24.04.20</i> <br>29 Deaths<extra></extra>",
+          "<i>25.04.20</i> <br>24 Deaths<extra></extra>",
+          "<i>26.04.20</i> <br>16 Deaths<extra></extra>",
+          "<i>27.04.20</i> <br>22 Deaths<extra></extra>",
+          "<i>28.04.20</i> <br>25 Deaths<extra></extra>",
+          "<i>29.04.20</i> <br>8 Deaths<extra></extra>",
+          "<i>30.04.20</i> <br>14 Deaths<extra></extra>",
+          "<i>01.05.20</i> <br>9 Deaths<extra></extra>",
+          "<i>02.05.20</i> <br>8 Deaths<extra></extra>"
+        ],
+        "textfont": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "type": "bar",
+        "x": [
+          "2020-02-26",
+          "2020-02-27",
+          "2020-02-28",
+          "2020-02-29",
+          "2020-03-01",
+          "2020-03-02",
+          "2020-03-03",
+          "2020-03-04",
+          "2020-03-05",
+          "2020-03-06",
+          "2020-03-07",
+          "2020-03-08",
+          "2020-03-09",
+          "2020-03-10",
+          "2020-03-11",
+          "2020-03-12",
+          "2020-03-13",
+          "2020-03-14",
+          "2020-03-15",
+          "2020-03-16",
+          "2020-03-17",
+          "2020-03-18",
+          "2020-03-19",
+          "2020-03-20",
+          "2020-03-21",
+          "2020-03-22",
+          "2020-03-23",
+          "2020-03-24",
+          "2020-03-25",
+          "2020-03-26",
+          "2020-03-27",
+          "2020-03-28",
+          "2020-03-29",
+          "2020-03-30",
+          "2020-03-31",
+          "2020-04-01",
+          "2020-04-02",
+          "2020-04-03",
+          "2020-04-04",
+          "2020-04-05",
+          "2020-04-06",
+          "2020-04-07",
+          "2020-04-08",
+          "2020-04-09",
+          "2020-04-10",
+          "2020-04-11",
+          "2020-04-12",
+          "2020-04-13",
+          "2020-04-14",
+          "2020-04-15",
+          "2020-04-16",
+          "2020-04-17",
+          "2020-04-18",
+          "2020-04-19",
+          "2020-04-20",
+          "2020-04-21",
+          "2020-04-22",
+          "2020-04-23",
+          "2020-04-24",
+          "2020-04-25",
+          "2020-04-26",
+          "2020-04-27",
+          "2020-04-28",
+          "2020-04-29",
+          "2020-04-30",
+          "2020-05-01",
+          "2020-05-02"
+        ],
+        "xaxis": "x",
+        "y": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          2,
+          1,
+          4,
+          1,
+          3,
+          8,
+          9,
+          7,
+          9,
+          9,
+          23,
+          20,
+          15,
+          30,
+          22,
+          35,
+          45,
+          37,
+          52,
+          44,
+          61,
+          65,
+          63,
+          61,
+          61,
+          66,
+          52,
+          59,
+          60,
+          68,
+          51,
+          50,
+          38,
+          56,
+          30,
+          38,
+          53,
+          45,
+          46,
+          42,
+          24,
+          42,
+          41,
+          27,
+          30,
+          29,
+          24,
+          16,
+          22,
+          25,
+          8,
+          14,
+          9,
+          8
+        ],
+        "yaxis": "y"
+      },
+      {
+        "error_x": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "error_y": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "frame": null,
+        "hovertemplate": [
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}"
+        ],
+        "legendgroup": "Confirmed cases",
+        "line": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "marker": {
+          "color": "rgba(68,1,84,1)",
+          "line": {
+            "color": "rgba(68,1,84,1)"
+          }
+        },
+        "mode": "lines",
+        "name": "Confirmed cases",
+        "showlegend": false,
+        "text": [
+          "<i>07.03.20</i> <br> R<sub>e</sub>: 1.79 (1.71-1.87) <br>(Confirmed cases)<extra></extra>",
+          "<i>08.03.20</i> <br> R<sub>e</sub>: 1.71 (1.64-1.79) <br>(Confirmed cases)<extra></extra>",
+          "<i>09.03.20</i> <br> R<sub>e</sub>: 1.63 (1.57-1.7) <br>(Confirmed cases)<extra></extra>",
+          "<i>10.03.20</i> <br> R<sub>e</sub>: 1.56 (1.5-1.62) <br>(Confirmed cases)<extra></extra>",
+          "<i>11.03.20</i> <br> R<sub>e</sub>: 1.48 (1.42-1.54) <br>(Confirmed cases)<extra></extra>",
+          "<i>12.03.20</i> <br> R<sub>e</sub>: 1.4 (1.35-1.46) <br>(Confirmed cases)<extra></extra>",
+          "<i>13.03.20</i> <br> R<sub>e</sub>: 1.34 (1.29-1.38) <br>(Confirmed cases)<extra></extra>",
+          "<i>14.03.20</i> <br> R<sub>e</sub>: 1.26 (1.22-1.31) <br>(Confirmed cases)<extra></extra>",
+          "<i>15.03.20</i> <br> R<sub>e</sub>: 1.19 (1.15-1.23) <br>(Confirmed cases)<extra></extra>",
+          "<i>16.03.20</i> <br> R<sub>e</sub>: 1.13 (1.09-1.17) <br>(Confirmed cases)<extra></extra>",
+          "<i>17.03.20</i> <br> R<sub>e</sub>: 1.08 (1.04-1.12) <br>(Confirmed cases)<extra></extra>",
+          "<i>18.03.20</i> <br> R<sub>e</sub>: 1.04 (1-1.08) <br>(Confirmed cases)<extra></extra>",
+          "<i>19.03.20</i> <br> R<sub>e</sub>: 1 (0.968-1.04) <br>(Confirmed cases)<extra></extra>",
+          "<i>20.03.20</i> <br> R<sub>e</sub>: 0.978 (0.943-1.01) <br>(Confirmed cases)<extra></extra>",
+          "<i>21.03.20</i> <br> R<sub>e</sub>: 0.945 (0.91-0.981) <br>(Confirmed cases)<extra></extra>",
+          "<i>22.03.20</i> <br> R<sub>e</sub>: 0.915 (0.88-0.95) <br>(Confirmed cases)<extra></extra>",
+          "<i>23.03.20</i> <br> R<sub>e</sub>: 0.882 (0.848-0.916) <br>(Confirmed cases)<extra></extra>",
+          "<i>24.03.20</i> <br> R<sub>e</sub>: 0.857 (0.823-0.891) <br>(Confirmed cases)<extra></extra>",
+          "<i>25.03.20</i> <br> R<sub>e</sub>: 0.833 (0.799-0.867) <br>(Confirmed cases)<extra></extra>",
+          "<i>26.03.20</i> <br> R<sub>e</sub>: 0.821 (0.786-0.855) <br>(Confirmed cases)<extra></extra>",
+          "<i>27.03.20</i> <br> R<sub>e</sub>: 0.803 (0.769-0.838) <br>(Confirmed cases)<extra></extra>",
+          "<i>28.03.20</i> <br> R<sub>e</sub>: 0.784 (0.749-0.819) <br>(Confirmed cases)<extra></extra>",
+          "<i>29.03.20</i> <br> R<sub>e</sub>: 0.762 (0.728-0.798) <br>(Confirmed cases)<extra></extra>",
+          "<i>30.03.20</i> <br> R<sub>e</sub>: 0.74 (0.704-0.776) <br>(Confirmed cases)<extra></extra>",
+          "<i>31.03.20</i> <br> R<sub>e</sub>: 0.718 (0.682-0.754) <br>(Confirmed cases)<extra></extra>",
+          "<i>01.04.20</i> <br> R<sub>e</sub>: 0.703 (0.667-0.74) <br>(Confirmed cases)<extra></extra>",
+          "<i>02.04.20</i> <br> R<sub>e</sub>: 0.694 (0.657-0.732) <br>(Confirmed cases)<extra></extra>",
+          "<i>03.04.20</i> <br> R<sub>e</sub>: 0.688 (0.65-0.727) <br>(Confirmed cases)<extra></extra>",
+          "<i>04.04.20</i> <br> R<sub>e</sub>: 0.68 (0.641-0.721) <br>(Confirmed cases)<extra></extra>",
+          "<i>05.04.20</i> <br> R<sub>e</sub>: 0.675 (0.634-0.717) <br>(Confirmed cases)<extra></extra>",
+          "<i>06.04.20</i> <br> R<sub>e</sub>: 0.662 (0.62-0.705) <br>(Confirmed cases)<extra></extra>",
+          "<i>07.04.20</i> <br> R<sub>e</sub>: 0.655 (0.611-0.699) <br>(Confirmed cases)<extra></extra>",
+          "<i>08.04.20</i> <br> R<sub>e</sub>: 0.66 (0.615-0.707) <br>(Confirmed cases)<extra></extra>",
+          "<i>09.04.20</i> <br> R<sub>e</sub>: 0.667 (0.62-0.715) <br>(Confirmed cases)<extra></extra>",
+          "<i>10.04.20</i> <br> R<sub>e</sub>: 0.677 (0.628-0.728) <br>(Confirmed cases)<extra></extra>",
+          "<i>11.04.20</i> <br> R<sub>e</sub>: 0.692 (0.641-0.746) <br>(Confirmed cases)<extra></extra>",
+          "<i>12.04.20</i> <br> R<sub>e</sub>: 0.712 (0.658-0.769) <br>(Confirmed cases)<extra></extra>",
+          "<i>13.04.20</i> <br> R<sub>e</sub>: 0.719 (0.662-0.778) <br>(Confirmed cases)<extra></extra>",
+          "<i>14.04.20</i> <br> R<sub>e</sub>: 0.726 (0.666-0.788) <br>(Confirmed cases)<extra></extra>",
+          "<i>15.04.20</i> <br> R<sub>e</sub>: 0.732 (0.67-0.797) <br>(Confirmed cases)<extra></extra>",
+          "<i>16.04.20</i> <br> R<sub>e</sub>: 0.732 (0.668-0.798) <br>(Confirmed cases)<extra></extra>",
+          "<i>17.04.20</i> <br> R<sub>e</sub>: 0.73 (0.664-0.798) <br>(Confirmed cases)<extra></extra>",
+          "<i>18.04.20</i> <br> R<sub>e</sub>: 0.743 (0.674-0.815) <br>(Confirmed cases)<extra></extra>",
+          "<i>19.04.20</i> <br> R<sub>e</sub>: 0.746 (0.675-0.82) <br>(Confirmed cases)<extra></extra>",
+          "<i>20.04.20</i> <br> R<sub>e</sub>: 0.752 (0.678-0.828) <br>(Confirmed cases)<extra></extra>",
+          "<i>21.04.20</i> <br> R<sub>e</sub>: 0.748 (0.674-0.827) <br>(Confirmed cases)<extra></extra>",
+          "<i>22.04.20</i> <br> R<sub>e</sub>: 0.756 (0.678-0.838) <br>(Confirmed cases)<extra></extra>"
+        ],
+        "textfont": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-07",
+          "2020-03-08",
+          "2020-03-09",
+          "2020-03-10",
+          "2020-03-11",
+          "2020-03-12",
+          "2020-03-13",
+          "2020-03-14",
+          "2020-03-15",
+          "2020-03-16",
+          "2020-03-17",
+          "2020-03-18",
+          "2020-03-19",
+          "2020-03-20",
+          "2020-03-21",
+          "2020-03-22",
+          "2020-03-23",
+          "2020-03-24",
+          "2020-03-25",
+          "2020-03-26",
+          "2020-03-27",
+          "2020-03-28",
+          "2020-03-29",
+          "2020-03-30",
+          "2020-03-31",
+          "2020-04-01",
+          "2020-04-02",
+          "2020-04-03",
+          "2020-04-04",
+          "2020-04-05",
+          "2020-04-06",
+          "2020-04-07",
+          "2020-04-08",
+          "2020-04-09",
+          "2020-04-10",
+          "2020-04-11",
+          "2020-04-12",
+          "2020-04-13",
+          "2020-04-14",
+          "2020-04-15",
+          "2020-04-16",
+          "2020-04-17",
+          "2020-04-18",
+          "2020-04-19",
+          "2020-04-20",
+          "2020-04-21",
+          "2020-04-22"
+        ],
+        "xaxis": "x",
+        "y": [
+          1.78958810219278,
+          1.71475643473774,
+          1.63479646181748,
+          1.55581619331002,
+          1.47892848151437,
+          1.40464485701055,
+          1.33500582384554,
+          1.26016432515218,
+          1.18815524277351,
+          1.12829416064858,
+          1.07959070039571,
+          1.04143048453607,
+          1.00483843626311,
+          0.978396594858735,
+          0.945412611457214,
+          0.914986631392689,
+          0.881809398413689,
+          0.856640186909882,
+          0.832987715249653,
+          0.820523427794202,
+          0.803358807656754,
+          0.783515896054127,
+          0.762238800144367,
+          0.739635681099138,
+          0.717960782273029,
+          0.703298193241869,
+          0.693799578388253,
+          0.688112684837611,
+          0.68037011436757,
+          0.674797011057952,
+          0.661836983730024,
+          0.654508142821368,
+          0.660267871825605,
+          0.666845210222324,
+          0.677432876077196,
+          0.692449640387288,
+          0.712267276229376,
+          0.718932164801927,
+          0.726075006410783,
+          0.732393751975725,
+          0.731621213736821,
+          0.729594005618383,
+          0.742744848743168,
+          0.74555064112929,
+          0.751500844019027,
+          0.748273228022607,
+          0.755963526520229
+        ],
+        "yaxis": "y2"
+      },
+      {
+        "error_x": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "error_y": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "frame": null,
+        "hovertemplate": [
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}"
+        ],
+        "legendgroup": "Hospitalized patients",
+        "line": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "marker": {
+          "color": "rgba(42,120,142,1)",
+          "line": {
+            "color": "rgba(42,120,142,1)"
+          }
+        },
+        "mode": "lines",
+        "name": "Hospitalized patients",
+        "showlegend": false,
+        "text": [
+          "<i>07.03.20</i> <br> R<sub>e</sub>: 1.63 (1.44-1.84) <br>(Hospitalized patients)<extra></extra>",
+          "<i>08.03.20</i> <br> R<sub>e</sub>: 1.56 (1.39-1.75) <br>(Hospitalized patients)<extra></extra>",
+          "<i>09.03.20</i> <br> R<sub>e</sub>: 1.52 (1.36-1.69) <br>(Hospitalized patients)<extra></extra>",
+          "<i>10.03.20</i> <br> R<sub>e</sub>: 1.46 (1.31-1.62) <br>(Hospitalized patients)<extra></extra>",
+          "<i>11.03.20</i> <br> R<sub>e</sub>: 1.43 (1.28-1.58) <br>(Hospitalized patients)<extra></extra>",
+          "<i>12.03.20</i> <br> R<sub>e</sub>: 1.38 (1.24-1.52) <br>(Hospitalized patients)<extra></extra>",
+          "<i>13.03.20</i> <br> R<sub>e</sub>: 1.33 (1.2-1.46) <br>(Hospitalized patients)<extra></extra>",
+          "<i>14.03.20</i> <br> R<sub>e</sub>: 1.26 (1.14-1.39) <br>(Hospitalized patients)<extra></extra>",
+          "<i>15.03.20</i> <br> R<sub>e</sub>: 1.2 (1.09-1.33) <br>(Hospitalized patients)<extra></extra>",
+          "<i>16.03.20</i> <br> R<sub>e</sub>: 1.15 (1.04-1.26) <br>(Hospitalized patients)<extra></extra>",
+          "<i>17.03.20</i> <br> R<sub>e</sub>: 1.1 (0.995-1.21) <br>(Hospitalized patients)<extra></extra>",
+          "<i>18.03.20</i> <br> R<sub>e</sub>: 1.06 (0.957-1.16) <br>(Hospitalized patients)<extra></extra>",
+          "<i>19.03.20</i> <br> R<sub>e</sub>: 1.03 (0.927-1.13) <br>(Hospitalized patients)<extra></extra>",
+          "<i>20.03.20</i> <br> R<sub>e</sub>: 0.979 (0.884-1.08) <br>(Hospitalized patients)<extra></extra>",
+          "<i>21.03.20</i> <br> R<sub>e</sub>: 0.937 (0.842-1.04) <br>(Hospitalized patients)<extra></extra>",
+          "<i>22.03.20</i> <br> R<sub>e</sub>: 0.882 (0.791-0.977) <br>(Hospitalized patients)<extra></extra>",
+          "<i>23.03.20</i> <br> R<sub>e</sub>: 0.834 (0.746-0.928) <br>(Hospitalized patients)<extra></extra>",
+          "<i>24.03.20</i> <br> R<sub>e</sub>: 0.787 (0.699-0.878) <br>(Hospitalized patients)<extra></extra>",
+          "<i>25.03.20</i> <br> R<sub>e</sub>: 0.726 (0.642-0.817) <br>(Hospitalized patients)<extra></extra>",
+          "<i>26.03.20</i> <br> R<sub>e</sub>: 0.674 (0.591-0.762) <br>(Hospitalized patients)<extra></extra>",
+          "<i>27.03.20</i> <br> R<sub>e</sub>: 0.648 (0.564-0.737) <br>(Hospitalized patients)<extra></extra>",
+          "<i>28.03.20</i> <br> R<sub>e</sub>: 0.628 (0.543-0.719) <br>(Hospitalized patients)<extra></extra>",
+          "<i>29.03.20</i> <br> R<sub>e</sub>: 0.612 (0.525-0.707) <br>(Hospitalized patients)<extra></extra>",
+          "<i>30.03.20</i> <br> R<sub>e</sub>: 0.611 (0.519-0.712) <br>(Hospitalized patients)<extra></extra>",
+          "<i>31.03.20</i> <br> R<sub>e</sub>: 0.612 (0.516-0.714) <br>(Hospitalized patients)<extra></extra>",
+          "<i>01.04.20</i> <br> R<sub>e</sub>: 0.641 (0.539-0.751) <br>(Hospitalized patients)<extra></extra>",
+          "<i>02.04.20</i> <br> R<sub>e</sub>: 0.652 (0.543-0.771) <br>(Hospitalized patients)<extra></extra>",
+          "<i>03.04.20</i> <br> R<sub>e</sub>: 0.674 (0.558-0.801) <br>(Hospitalized patients)<extra></extra>",
+          "<i>04.04.20</i> <br> R<sub>e</sub>: 0.673 (0.554-0.805) <br>(Hospitalized patients)<extra></extra>",
+          "<i>05.04.20</i> <br> R<sub>e</sub>: 0.696 (0.569-0.837) <br>(Hospitalized patients)<extra></extra>",
+          "<i>06.04.20</i> <br> R<sub>e</sub>: 0.693 (0.56-0.837) <br>(Hospitalized patients)<extra></extra>",
+          "<i>07.04.20</i> <br> R<sub>e</sub>: 0.667 (0.534-0.817) <br>(Hospitalized patients)<extra></extra>",
+          "<i>08.04.20</i> <br> R<sub>e</sub>: 0.671 (0.532-0.827) <br>(Hospitalized patients)<extra></extra>",
+          "<i>09.04.20</i> <br> R<sub>e</sub>: 0.672 (0.53-0.835) <br>(Hospitalized patients)<extra></extra>",
+          "<i>10.04.20</i> <br> R<sub>e</sub>: 0.671 (0.52-0.843) <br>(Hospitalized patients)<extra></extra>",
+          "<i>11.04.20</i> <br> R<sub>e</sub>: 0.669 (0.513-0.847) <br>(Hospitalized patients)<extra></extra>",
+          "<i>12.04.20</i> <br> R<sub>e</sub>: 0.655 (0.496-0.837) <br>(Hospitalized patients)<extra></extra>",
+          "<i>13.04.20</i> <br> R<sub>e</sub>: 0.636 (0.473-0.822) <br>(Hospitalized patients)<extra></extra>",
+          "<i>14.04.20</i> <br> R<sub>e</sub>: 0.645 (0.475-0.839) <br>(Hospitalized patients)<extra></extra>",
+          "<i>15.04.20</i> <br> R<sub>e</sub>: 0.642 (0.466-0.847) <br>(Hospitalized patients)<extra></extra>",
+          "<i>16.04.20</i> <br> R<sub>e</sub>: 0.636 (0.451-0.852) <br>(Hospitalized patients)<extra></extra>",
+          "<i>17.04.20</i> <br> R<sub>e</sub>: 0.651 (0.458-0.883) <br>(Hospitalized patients)<extra></extra>",
+          "<i>18.04.20</i> <br> R<sub>e</sub>: 0.657 (0.453-0.898) <br>(Hospitalized patients)<extra></extra>",
+          "<i>19.04.20</i> <br> R<sub>e</sub>: 0.706 (0.485-0.975) <br>(Hospitalized patients)<extra></extra>",
+          "<i>20.04.20</i> <br> R<sub>e</sub>: 0.685 (0.46-0.95) <br>(Hospitalized patients)<extra></extra>"
+        ],
+        "textfont": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-07",
+          "2020-03-08",
+          "2020-03-09",
+          "2020-03-10",
+          "2020-03-11",
+          "2020-03-12",
+          "2020-03-13",
+          "2020-03-14",
+          "2020-03-15",
+          "2020-03-16",
+          "2020-03-17",
+          "2020-03-18",
+          "2020-03-19",
+          "2020-03-20",
+          "2020-03-21",
+          "2020-03-22",
+          "2020-03-23",
+          "2020-03-24",
+          "2020-03-25",
+          "2020-03-26",
+          "2020-03-27",
+          "2020-03-28",
+          "2020-03-29",
+          "2020-03-30",
+          "2020-03-31",
+          "2020-04-01",
+          "2020-04-02",
+          "2020-04-03",
+          "2020-04-04",
+          "2020-04-05",
+          "2020-04-06",
+          "2020-04-07",
+          "2020-04-08",
+          "2020-04-09",
+          "2020-04-10",
+          "2020-04-11",
+          "2020-04-12",
+          "2020-04-13",
+          "2020-04-14",
+          "2020-04-15",
+          "2020-04-16",
+          "2020-04-17",
+          "2020-04-18",
+          "2020-04-19",
+          "2020-04-20"
+        ],
+        "xaxis": "x",
+        "y": [
+          1.63434613064494,
+          1.56478630646533,
+          1.52121784399689,
+          1.46021403188201,
+          1.42526564274372,
+          1.37730084867595,
+          1.32675561618222,
+          1.26435389377354,
+          1.20432542728144,
+          1.14749102223801,
+          1.09910913538362,
+          1.05734671340585,
+          1.02568826944842,
+          0.978749285333892,
+          0.936731691648696,
+          0.882459831332972,
+          0.834169476718559,
+          0.786617529206416,
+          0.726067786943877,
+          0.6739027054236,
+          0.647932185733108,
+          0.627788300620572,
+          0.612437603778842,
+          0.611436293924414,
+          0.611818991300786,
+          0.641152180127939,
+          0.65206108373259,
+          0.673768644019304,
+          0.673499303056557,
+          0.696451756347904,
+          0.692671626714117,
+          0.667191650250554,
+          0.671149590905803,
+          0.672055408015101,
+          0.670805253399982,
+          0.669373251327121,
+          0.65547378046264,
+          0.63630113203832,
+          0.64548986671344,
+          0.641845521897275,
+          0.635909759781054,
+          0.651256687831199,
+          0.657131234752729,
+          0.706293473555104,
+          0.685313094384218
+        ],
+        "yaxis": "y2"
+      },
+      {
+        "error_x": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "error_y": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "frame": null,
+        "hovertemplate": [
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}",
+          "%{text}"
+        ],
+        "legendgroup": "Deaths",
+        "line": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "marker": {
+          "color": "rgba(122,209,81,1)",
+          "line": {
+            "color": "rgba(122,209,81,1)"
+          }
+        },
+        "mode": "lines",
+        "name": "Deaths",
+        "showlegend": false,
+        "text": [
+          "<i>07.03.20</i> <br> R<sub>e</sub>: 1.5 (1.23-1.79) <br>(Deaths)<extra></extra>",
+          "<i>08.03.20</i> <br> R<sub>e</sub>: 1.48 (1.22-1.77) <br>(Deaths)<extra></extra>",
+          "<i>09.03.20</i> <br> R<sub>e</sub>: 1.44 (1.2-1.7) <br>(Deaths)<extra></extra>",
+          "<i>10.03.20</i> <br> R<sub>e</sub>: 1.38 (1.15-1.62) <br>(Deaths)<extra></extra>",
+          "<i>11.03.20</i> <br> R<sub>e</sub>: 1.33 (1.12-1.56) <br>(Deaths)<extra></extra>",
+          "<i>12.03.20</i> <br> R<sub>e</sub>: 1.28 (1.08-1.5) <br>(Deaths)<extra></extra>",
+          "<i>13.03.20</i> <br> R<sub>e</sub>: 1.27 (1.08-1.49) <br>(Deaths)<extra></extra>",
+          "<i>14.03.20</i> <br> R<sub>e</sub>: 1.24 (1.05-1.45) <br>(Deaths)<extra></extra>",
+          "<i>15.03.20</i> <br> R<sub>e</sub>: 1.21 (1.03-1.42) <br>(Deaths)<extra></extra>",
+          "<i>16.03.20</i> <br> R<sub>e</sub>: 1.17 (0.992-1.36) <br>(Deaths)<extra></extra>",
+          "<i>17.03.20</i> <br> R<sub>e</sub>: 1.12 (0.954-1.31) <br>(Deaths)<extra></extra>",
+          "<i>18.03.20</i> <br> R<sub>e</sub>: 1.1 (0.932-1.28) <br>(Deaths)<extra></extra>",
+          "<i>19.03.20</i> <br> R<sub>e</sub>: 1.07 (0.906-1.24) <br>(Deaths)<extra></extra>",
+          "<i>20.03.20</i> <br> R<sub>e</sub>: 1.03 (0.871-1.2) <br>(Deaths)<extra></extra>",
+          "<i>21.03.20</i> <br> R<sub>e</sub>: 0.994 (0.841-1.16) <br>(Deaths)<extra></extra>",
+          "<i>22.03.20</i> <br> R<sub>e</sub>: 0.956 (0.811-1.11) <br>(Deaths)<extra></extra>",
+          "<i>23.03.20</i> <br> R<sub>e</sub>: 0.95 (0.804-1.11) <br>(Deaths)<extra></extra>",
+          "<i>24.03.20</i> <br> R<sub>e</sub>: 0.935 (0.789-1.09) <br>(Deaths)<extra></extra>",
+          "<i>25.03.20</i> <br> R<sub>e</sub>: 0.923 (0.778-1.08) <br>(Deaths)<extra></extra>",
+          "<i>26.03.20</i> <br> R<sub>e</sub>: 0.903 (0.757-1.06) <br>(Deaths)<extra></extra>",
+          "<i>27.03.20</i> <br> R<sub>e</sub>: 0.894 (0.744-1.05) <br>(Deaths)<extra></extra>",
+          "<i>28.03.20</i> <br> R<sub>e</sub>: 0.882 (0.735-1.04) <br>(Deaths)<extra></extra>",
+          "<i>29.03.20</i> <br> R<sub>e</sub>: 0.871 (0.722-1.03) <br>(Deaths)<extra></extra>",
+          "<i>30.03.20</i> <br> R<sub>e</sub>: 0.85 (0.703-1.01) <br>(Deaths)<extra></extra>",
+          "<i>31.03.20</i> <br> R<sub>e</sub>: 0.837 (0.688-0.998) <br>(Deaths)<extra></extra>",
+          "<i>01.04.20</i> <br> R<sub>e</sub>: 0.818 (0.67-0.981) <br>(Deaths)<extra></extra>",
+          "<i>02.04.20</i> <br> R<sub>e</sub>: 0.839 (0.685-1.01) <br>(Deaths)<extra></extra>",
+          "<i>03.04.20</i> <br> R<sub>e</sub>: 0.834 (0.678-1.01) <br>(Deaths)<extra></extra>",
+          "<i>04.04.20</i> <br> R<sub>e</sub>: 0.83 (0.672-1) <br>(Deaths)<extra></extra>",
+          "<i>05.04.20</i> <br> R<sub>e</sub>: 0.817 (0.66-0.991) <br>(Deaths)<extra></extra>",
+          "<i>06.04.20</i> <br> R<sub>e</sub>: 0.798 (0.644-0.97) <br>(Deaths)<extra></extra>",
+          "<i>07.04.20</i> <br> R<sub>e</sub>: 0.81 (0.646-0.987) <br>(Deaths)<extra></extra>",
+          "<i>08.04.20</i> <br> R<sub>e</sub>: 0.799 (0.632-0.984) <br>(Deaths)<extra></extra>",
+          "<i>09.04.20</i> <br> R<sub>e</sub>: 0.774 (0.61-0.959) <br>(Deaths)<extra></extra>",
+          "<i>10.04.20</i> <br> R<sub>e</sub>: 0.801 (0.622-0.998) <br>(Deaths)<extra></extra>",
+          "<i>11.04.20</i> <br> R<sub>e</sub>: 0.787 (0.611-0.986) <br>(Deaths)<extra></extra>",
+          "<i>12.04.20</i> <br> R<sub>e</sub>: 0.766 (0.587-0.969) <br>(Deaths)<extra></extra>",
+          "<i>13.04.20</i> <br> R<sub>e</sub>: 0.779 (0.597-0.982) <br>(Deaths)<extra></extra>",
+          "<i>14.04.20</i> <br> R<sub>e</sub>: 0.766 (0.581-0.979) <br>(Deaths)<extra></extra>",
+          "<i>15.04.20</i> <br> R<sub>e</sub>: 0.769 (0.578-0.995) <br>(Deaths)<extra></extra>",
+          "<i>16.04.20</i> <br> R<sub>e</sub>: 0.758 (0.56-0.992) <br>(Deaths)<extra></extra>",
+          "<i>17.04.20</i> <br> R<sub>e</sub>: 0.787 (0.576-1.03) <br>(Deaths)<extra></extra>"
+        ],
+        "textfont": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-07",
+          "2020-03-08",
+          "2020-03-09",
+          "2020-03-10",
+          "2020-03-11",
+          "2020-03-12",
+          "2020-03-13",
+          "2020-03-14",
+          "2020-03-15",
+          "2020-03-16",
+          "2020-03-17",
+          "2020-03-18",
+          "2020-03-19",
+          "2020-03-20",
+          "2020-03-21",
+          "2020-03-22",
+          "2020-03-23",
+          "2020-03-24",
+          "2020-03-25",
+          "2020-03-26",
+          "2020-03-27",
+          "2020-03-28",
+          "2020-03-29",
+          "2020-03-30",
+          "2020-03-31",
+          "2020-04-01",
+          "2020-04-02",
+          "2020-04-03",
+          "2020-04-04",
+          "2020-04-05",
+          "2020-04-06",
+          "2020-04-07",
+          "2020-04-08",
+          "2020-04-09",
+          "2020-04-10",
+          "2020-04-11",
+          "2020-04-12",
+          "2020-04-13",
+          "2020-04-14",
+          "2020-04-15",
+          "2020-04-16",
+          "2020-04-17"
+        ],
+        "xaxis": "x",
+        "y": [
+          1.49719922009124,
+          1.48259548083304,
+          1.44151882566777,
+          1.37567681859685,
+          1.33073551911527,
+          1.28026028936019,
+          1.27358322460418,
+          1.24473811278236,
+          1.21433698467644,
+          1.17036175701072,
+          1.12444319352248,
+          1.09938562884885,
+          1.06726442416422,
+          1.02861944311197,
+          0.993776904909013,
+          0.955858475406623,
+          0.950067419542102,
+          0.934798398360644,
+          0.923099047501098,
+          0.902632482261019,
+          0.893788754418014,
+          0.881978271752802,
+          0.871072303750942,
+          0.850126624126951,
+          0.836612180760448,
+          0.81812099673218,
+          0.838626196236237,
+          0.833700911710131,
+          0.830073698743821,
+          0.817046390568974,
+          0.79840929633125,
+          0.810009606071343,
+          0.798820227829576,
+          0.773629394883204,
+          0.80084108253564,
+          0.786817722589264,
+          0.76629869831102,
+          0.778963762420634,
+          0.766423318345122,
+          0.768553128156482,
+          0.758450111640015,
+          0.786978044293312
+        ],
+        "yaxis": "y2"
+      },
+      {
+        "error_x": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "error_y": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "fill": "toself",
+        "fillcolor": "rgba(68,1,84,0.5)",
+        "frame": null,
+        "hoverinfo": [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ],
+        "hoveron": "points",
+        "legendgroup": "Confirmed cases",
+        "line": {
+          "color": "transparent"
+        },
+        "marker": {
+          "color": "rgba(68,1,84,1)",
+          "line": {
+            "color": "rgba(68,1,84,1)"
+          }
+        },
+        "mode": "lines",
+        "name": "Confirmed cases",
+        "opacity": 0.5,
+        "showlegend": false,
+        "textfont": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-07",
+          "2020-03-08",
+          "2020-03-09",
+          "2020-03-10",
+          "2020-03-11",
+          "2020-03-12",
+          "2020-03-13",
+          "2020-03-14",
+          "2020-03-15",
+          "2020-03-16",
+          "2020-03-17",
+          "2020-03-18",
+          "2020-03-19",
+          "2020-03-20",
+          "2020-03-21",
+          "2020-03-22",
+          "2020-03-23",
+          "2020-03-24",
+          "2020-03-25",
+          "2020-03-26",
+          "2020-03-27",
+          "2020-03-28",
+          "2020-03-29",
+          "2020-03-30",
+          "2020-03-31",
+          "2020-04-01",
+          "2020-04-02",
+          "2020-04-03",
+          "2020-04-04",
+          "2020-04-05",
+          "2020-04-06",
+          "2020-04-07",
+          "2020-04-08",
+          "2020-04-09",
+          "2020-04-10",
+          "2020-04-11",
+          "2020-04-12",
+          "2020-04-13",
+          "2020-04-14",
+          "2020-04-15",
+          "2020-04-16",
+          "2020-04-17",
+          "2020-04-18",
+          "2020-04-19",
+          "2020-04-20",
+          "2020-04-21",
+          "2020-04-22",
+          "2020-04-22",
+          "2020-04-22",
+          "2020-04-21",
+          "2020-04-20",
+          "2020-04-19",
+          "2020-04-18",
+          "2020-04-17",
+          "2020-04-16",
+          "2020-04-15",
+          "2020-04-14",
+          "2020-04-13",
+          "2020-04-12",
+          "2020-04-11",
+          "2020-04-10",
+          "2020-04-09",
+          "2020-04-08",
+          "2020-04-07",
+          "2020-04-06",
+          "2020-04-05",
+          "2020-04-04",
+          "2020-04-03",
+          "2020-04-02",
+          "2020-04-01",
+          "2020-03-31",
+          "2020-03-30",
+          "2020-03-29",
+          "2020-03-28",
+          "2020-03-27",
+          "2020-03-26",
+          "2020-03-25",
+          "2020-03-24",
+          "2020-03-23",
+          "2020-03-22",
+          "2020-03-21",
+          "2020-03-20",
+          "2020-03-19",
+          "2020-03-18",
+          "2020-03-17",
+          "2020-03-16",
+          "2020-03-15",
+          "2020-03-14",
+          "2020-03-13",
+          "2020-03-12",
+          "2020-03-11",
+          "2020-03-10",
+          "2020-03-09",
+          "2020-03-08",
+          "2020-03-07"
+        ],
+        "xaxis": "x",
+        "y": [
+          1.71052804826008,
+          1.64285797843934,
+          1.56840339671882,
+          1.49542165095284,
+          1.42312427178276,
+          1.3526914504965,
+          1.28644248378243,
+          1.21500078712951,
+          1.14548251222843,
+          1.08789774392814,
+          1.04070849946219,
+          1.00397686142749,
+          0.968405266103886,
+          0.942711659009474,
+          0.910366606600635,
+          0.880344903343951,
+          0.847789926430279,
+          0.822657830462617,
+          0.799247390484759,
+          0.786383144381026,
+          0.769070072206338,
+          0.749104563157274,
+          0.727541910063263,
+          0.704499754956308,
+          0.682385562485513,
+          0.667327167690828,
+          0.656760236607611,
+          0.649998244521638,
+          0.641186515402316,
+          0.634272500424028,
+          0.620446734869672,
+          0.611375913170406,
+          0.615492198874895,
+          0.619886531389229,
+          0.628274551373629,
+          0.64083260082251,
+          0.657780780777262,
+          0.662152223186345,
+          0.666392943030513,
+          0.670495281148027,
+          0.668421305749286,
+          0.664463171747327,
+          0.674014706249583,
+          0.674697623052533,
+          0.678205028115477,
+          0.673813760819207,
+          0.678249494226636,
+          0.678249494226636,
+          0.838173123425989,
+          0.82673227886529,
+          0.828405964956688,
+          0.81989043399881,
+          0.814584102336221,
+          0.798457620344902,
+          0.797635200452817,
+          0.796986015862756,
+          0.788018206094105,
+          0.778420253316797,
+          0.768812414961348,
+          0.746037494278366,
+          0.728416463309124,
+          0.715490443673986,
+          0.706593372483366,
+          0.699089769852894,
+          0.704544768881977,
+          0.716515973795585,
+          0.720699439800117,
+          0.72741824750529,
+          0.731879509937336,
+          0.740051360370922,
+          0.754419147092842,
+          0.775614603490063,
+          0.797732570056075,
+          0.818531059977537,
+          0.83838487932727,
+          0.855378981601626,
+          0.867466873808548,
+          0.891262033349003,
+          0.91648870504045,
+          0.950287502722763,
+          0.981090423534807,
+          1.01473518767735,
+          1.04193495529753,
+          1.07956039853995,
+          1.11918764496828,
+          1.16941669387729,
+          1.23159744961573,
+          1.30614050743084,
+          1.38445632274146,
+          1.45767928153658,
+          1.53579086285594,
+          1.61738961935421,
+          1.70247878495868,
+          1.78817312041403,
+          1.87040915565186
+        ],
+        "yaxis": "y2"
+      },
+      {
+        "error_x": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "error_y": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "fill": "toself",
+        "fillcolor": "rgba(42,120,142,0.5)",
+        "frame": null,
+        "hoverinfo": [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ],
+        "hoveron": "points",
+        "legendgroup": "Hospitalized patients",
+        "line": {
+          "color": "transparent"
+        },
+        "marker": {
+          "color": "rgba(42,120,142,1)",
+          "line": {
+            "color": "rgba(42,120,142,1)"
+          }
+        },
+        "mode": "lines",
+        "name": "Hospitalized patients",
+        "opacity": 0.5,
+        "showlegend": false,
+        "textfont": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-07",
+          "2020-03-08",
+          "2020-03-09",
+          "2020-03-10",
+          "2020-03-11",
+          "2020-03-12",
+          "2020-03-13",
+          "2020-03-14",
+          "2020-03-15",
+          "2020-03-16",
+          "2020-03-17",
+          "2020-03-18",
+          "2020-03-19",
+          "2020-03-20",
+          "2020-03-21",
+          "2020-03-22",
+          "2020-03-23",
+          "2020-03-24",
+          "2020-03-25",
+          "2020-03-26",
+          "2020-03-27",
+          "2020-03-28",
+          "2020-03-29",
+          "2020-03-30",
+          "2020-03-31",
+          "2020-04-01",
+          "2020-04-02",
+          "2020-04-03",
+          "2020-04-04",
+          "2020-04-05",
+          "2020-04-06",
+          "2020-04-07",
+          "2020-04-08",
+          "2020-04-09",
+          "2020-04-10",
+          "2020-04-11",
+          "2020-04-12",
+          "2020-04-13",
+          "2020-04-14",
+          "2020-04-15",
+          "2020-04-16",
+          "2020-04-17",
+          "2020-04-18",
+          "2020-04-19",
+          "2020-04-20",
+          "2020-04-20",
+          "2020-04-19",
+          "2020-04-18",
+          "2020-04-17",
+          "2020-04-16",
+          "2020-04-15",
+          "2020-04-14",
+          "2020-04-13",
+          "2020-04-12",
+          "2020-04-11",
+          "2020-04-10",
+          "2020-04-09",
+          "2020-04-08",
+          "2020-04-07",
+          "2020-04-06",
+          "2020-04-05",
+          "2020-04-04",
+          "2020-04-03",
+          "2020-04-02",
+          "2020-04-01",
+          "2020-03-31",
+          "2020-03-30",
+          "2020-03-29",
+          "2020-03-28",
+          "2020-03-27",
+          "2020-03-26",
+          "2020-03-25",
+          "2020-03-24",
+          "2020-03-23",
+          "2020-03-22",
+          "2020-03-21",
+          "2020-03-20",
+          "2020-03-19",
+          "2020-03-18",
+          "2020-03-17",
+          "2020-03-16",
+          "2020-03-15",
+          "2020-03-14",
+          "2020-03-13",
+          "2020-03-12",
+          "2020-03-11",
+          "2020-03-10",
+          "2020-03-09",
+          "2020-03-08",
+          "2020-03-07"
+        ],
+        "xaxis": "x",
+        "y": [
+          1.44282036595422,
+          1.39021520186604,
+          1.35568128810726,
+          1.30756985439446,
+          1.28108370540439,
+          1.24180174163776,
+          1.19800745225731,
+          1.14197872872504,
+          1.08793141932643,
+          1.03857122230156,
+          0.99465095037329,
+          0.956557077760559,
+          0.926686510571013,
+          0.883555236671867,
+          0.841877258730906,
+          0.79141438271153,
+          0.74581065693624,
+          0.699461457718539,
+          0.641648845150445,
+          0.590827657188637,
+          0.563737313402902,
+          0.54323567857894,
+          0.525313193693533,
+          0.518536073971329,
+          0.516375923032898,
+          0.538603785905,
+          0.542916778726204,
+          0.558365580624882,
+          0.554062959359208,
+          0.568633782607274,
+          0.560340047166522,
+          0.533566291337023,
+          0.532096388632115,
+          0.529925975017913,
+          0.520362251344247,
+          0.513323089346404,
+          0.495794930674272,
+          0.473151165508326,
+          0.474708855109192,
+          0.465507577531753,
+          0.450626869961643,
+          0.457642101945877,
+          0.452966857492338,
+          0.485058153354174,
+          0.460020424850115,
+          0.949658157618659,
+          0.975434658278436,
+          0.897842425248291,
+          0.883495911883918,
+          0.851758025382261,
+          0.846752598776925,
+          0.839419516647001,
+          0.822479009484013,
+          0.837427079101423,
+          0.846671654687181,
+          0.842824192523736,
+          0.834550925146875,
+          0.826509334470174,
+          0.816916825796375,
+          0.837017195064621,
+          0.836774340039375,
+          0.805377756005033,
+          0.800848883042045,
+          0.771298821507134,
+          0.750849076485238,
+          0.714216350531642,
+          0.711724715290373,
+          0.70672401688658,
+          0.718964639744732,
+          0.737248541285707,
+          0.762248016694209,
+          0.816858041529021,
+          0.878094990618639,
+          0.927935503533432,
+          0.977443779492703,
+          1.03595686254826,
+          1.07987519798582,
+          1.12996536599772,
+          1.16286236577077,
+          1.20960612863257,
+          1.26176412719099,
+          1.32587954968583,
+          1.39371013860242,
+          1.46198027602985,
+          1.52094225457194,
+          1.57613874917012,
+          1.62182579172514,
+          1.6926272494979,
+          1.74985535836639,
+          1.83722280477778
+        ],
+        "yaxis": "y2"
+      },
+      {
+        "error_x": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "error_y": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "fill": "toself",
+        "fillcolor": "rgba(122,209,81,0.5)",
+        "frame": null,
+        "hoverinfo": [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ],
+        "hoveron": "points",
+        "legendgroup": "Deaths",
+        "line": {
+          "color": "transparent"
+        },
+        "marker": {
+          "color": "rgba(122,209,81,1)",
+          "line": {
+            "color": "rgba(122,209,81,1)"
+          }
+        },
+        "mode": "lines",
+        "name": "Deaths",
+        "opacity": 0.5,
+        "showlegend": false,
+        "textfont": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-07",
+          "2020-03-08",
+          "2020-03-09",
+          "2020-03-10",
+          "2020-03-11",
+          "2020-03-12",
+          "2020-03-13",
+          "2020-03-14",
+          "2020-03-15",
+          "2020-03-16",
+          "2020-03-17",
+          "2020-03-18",
+          "2020-03-19",
+          "2020-03-20",
+          "2020-03-21",
+          "2020-03-22",
+          "2020-03-23",
+          "2020-03-24",
+          "2020-03-25",
+          "2020-03-26",
+          "2020-03-27",
+          "2020-03-28",
+          "2020-03-29",
+          "2020-03-30",
+          "2020-03-31",
+          "2020-04-01",
+          "2020-04-02",
+          "2020-04-03",
+          "2020-04-04",
+          "2020-04-05",
+          "2020-04-06",
+          "2020-04-07",
+          "2020-04-08",
+          "2020-04-09",
+          "2020-04-10",
+          "2020-04-11",
+          "2020-04-12",
+          "2020-04-13",
+          "2020-04-14",
+          "2020-04-15",
+          "2020-04-16",
+          "2020-04-17",
+          "2020-04-17",
+          "2020-04-16",
+          "2020-04-15",
+          "2020-04-14",
+          "2020-04-13",
+          "2020-04-12",
+          "2020-04-11",
+          "2020-04-10",
+          "2020-04-09",
+          "2020-04-08",
+          "2020-04-07",
+          "2020-04-06",
+          "2020-04-05",
+          "2020-04-04",
+          "2020-04-03",
+          "2020-04-02",
+          "2020-04-01",
+          "2020-03-31",
+          "2020-03-30",
+          "2020-03-29",
+          "2020-03-28",
+          "2020-03-27",
+          "2020-03-26",
+          "2020-03-25",
+          "2020-03-24",
+          "2020-03-23",
+          "2020-03-22",
+          "2020-03-21",
+          "2020-03-20",
+          "2020-03-19",
+          "2020-03-18",
+          "2020-03-17",
+          "2020-03-16",
+          "2020-03-15",
+          "2020-03-14",
+          "2020-03-13",
+          "2020-03-12",
+          "2020-03-11",
+          "2020-03-10",
+          "2020-03-09",
+          "2020-03-08",
+          "2020-03-07"
+        ],
+        "xaxis": "x",
+        "y": [
+          1.22865018837547,
+          1.22375968485366,
+          1.197648379155,
+          1.15217414114411,
+          1.11638346809909,
+          1.07501690572553,
+          1.07603642819201,
+          1.05482137154414,
+          1.02992454078647,
+          0.992236023700076,
+          0.954389626089709,
+          0.932249756239173,
+          0.905826817748781,
+          0.871424031460177,
+          0.8411943476907,
+          0.811078193880302,
+          0.803641708425378,
+          0.78931564615915,
+          0.777803857624644,
+          0.7569008342272,
+          0.743660818868273,
+          0.734576354479404,
+          0.721897316935721,
+          0.702704322902694,
+          0.687928360667425,
+          0.670449496785042,
+          0.685114739959634,
+          0.677961643396615,
+          0.672094696794762,
+          0.660248875532662,
+          0.643943799774785,
+          0.646286761975517,
+          0.632347339086659,
+          0.610127297699087,
+          0.621610545282494,
+          0.610567402901377,
+          0.587494319332194,
+          0.59675207904742,
+          0.580524208027146,
+          0.577731975915708,
+          0.560447595863606,
+          0.57616683802979,
+          1.02914394448842,
+          0.992146916372752,
+          0.994676557123168,
+          0.979006665007511,
+          0.98177099581513,
+          0.969419462947126,
+          0.985888740276777,
+          0.997887331872477,
+          0.958908666165502,
+          0.984005264251782,
+          0.987152618093207,
+          0.97023920184764,
+          0.990795329871909,
+          1.00270691727705,
+          1.0054643629299,
+          1.00856819978465,
+          0.980965292186907,
+          0.998297668557503,
+          1.0095434382008,
+          1.03316515512839,
+          1.03996389311406,
+          1.05236779366391,
+          1.06156104420705,
+          1.08119878832047,
+          1.0919292509531,
+          1.10939030111258,
+          1.11235308799618,
+          1.15747191706061,
+          1.19993374610042,
+          1.23900106886733,
+          1.27575320569342,
+          1.30960187852397,
+          1.36205002033531,
+          1.41664049460798,
+          1.45349896091641,
+          1.48643134918884,
+          1.50377599815252,
+          1.56294554967621,
+          1.61870237526182,
+          1.70421236848086,
+          1.76611612171048,
+          1.79200730136401
+        ],
+        "yaxis": "y2"
+      },
+      {
+        "error_x": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "error_y": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "frame": null,
+        "hoverinfo": "text",
+        "legendgroup": "Confirmed cases",
+        "line": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "marker": {
+          "color": "rgba(68,1,84,1)",
+          "line": {
+            "color": "rgba(68,1,84,1)"
+          },
+          "symbol": "asterisk-open"
+        },
+        "mode": "markers",
+        "name": "Confirmed cases",
+        "showlegend": false,
+        "text": "<i>22.04.20</i> <br> R<sub>e</sub>: 0.756 (0.678-0.838) <br>(Confirmed cases)",
+        "textfont": {
+          "color": "rgba(68,1,84,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-04-22 12:00:00"
+        ],
+        "xaxis": "x",
+        "y": [
+          0.755963526520229
+        ],
+        "yaxis": "y2"
+      },
+      {
+        "error_x": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "error_y": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "frame": null,
+        "hoverinfo": "text",
+        "legendgroup": "Hospitalized patients",
+        "line": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "marker": {
+          "color": "rgba(42,120,142,1)",
+          "line": {
+            "color": "rgba(42,120,142,1)"
+          },
+          "symbol": "asterisk-open"
+        },
+        "mode": "markers",
+        "name": "Hospitalized patients",
+        "showlegend": false,
+        "text": "<i>20.04.20</i> <br> R<sub>e</sub>: 0.685 (0.46-0.95) <br>(Hospitalized patients)",
+        "textfont": {
+          "color": "rgba(42,120,142,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-04-20 12:00:00"
+        ],
+        "xaxis": "x",
+        "y": [
+          0.685313094384218
+        ],
+        "yaxis": "y2"
+      },
+      {
+        "error_x": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "error_y": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "frame": null,
+        "hoverinfo": "text",
+        "legendgroup": "Deaths",
+        "line": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "marker": {
+          "color": "rgba(122,209,81,1)",
+          "line": {
+            "color": "rgba(122,209,81,1)"
+          },
+          "symbol": "asterisk-open"
+        },
+        "mode": "markers",
+        "name": "Deaths",
+        "showlegend": false,
+        "text": "<i>17.04.20</i> <br> R<sub>e</sub>: 0.787 (0.576-1.03) <br>(Deaths)",
+        "textfont": {
+          "color": "rgba(122,209,81,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-04-17 12:00:00"
+        ],
+        "xaxis": "x",
+        "y": [
+          0.786978044293312
+        ],
+        "yaxis": "y2"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "closureAll",
+        "showlegend": false,
+        "text": [
+          "<i>2020-03-17</i><br>closure of all stores and markets <br> SR 818.101.24 COVID-19-Verordnung 3, 13.3.2020, Version from 17.03.2020",
+          "<i>9999-01-01</i><br>end of closure of all stores and markets"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-17",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          6,
+          6
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "closureBars",
+        "showlegend": false,
+        "text": [
+          "<i>2020-03-17</i><br>closure of restaurants and bars <br> SR 818.101.24 COVID-19-Verordnung 3, 13.3.2020, Version from 17.3.2020",
+          "<i>9999-01-01</i><br>end of closure of restaurants and bars <br>"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-17",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          3,
+          3
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "closureHair",
+        "showlegend": false,
+        "text": [
+          "<i>2020-03-17</i><br>closure of hairdresser, hardware stores & garden centers <br> SR 818.101.24 COVID-19-Verordnung 3, 13.3.2020, Version from 17.03.2020",
+          "<i>2020-04-27</i><br>end of closure of hairdresser, hardware stores & garden centers <br> SR 818.101.24 COVID-19-Verordnung 3, 13.3.2020, Version from 16.4.2020"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-17",
+          "2020-04-27"
+        ],
+        "xaxis": "x",
+        "y": [
+          4,
+          4
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "closureZoo",
+        "showlegend": false,
+        "text": [
+          "<i>2020-03-17</i><br>closure of museums, zoos, etc <br> SR 818.101.24 COVID-19-Verordnung 3, 13.3.2020, Version from 17.03.2020",
+          "<i>9999-01-01</i><br>end of closure of museums, zoos, etc."
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-17",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          5,
+          5
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "event100",
+        "showlegend": false,
+        "text": [
+          "<i>2020-03-13</i><br>ban of events > 100 people <br> SR 818.101.24 COVID-19-Verordnung 2, 13.3.2020",
+          "<i>9999-01-01</i><br>dnd of ban of events > 100 people"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-13",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          8,
+          8
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "event1000",
+        "showlegend": false,
+        "text": [
+          "<i>2020-02-28</i><br>ban of events > 1000 people <br> SR 818.101.24 COVID-19-Verordnung 1, 28.2.2020",
+          "<i>9999-01-01</i><br>end of ban of events > 1000 people"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-02-28",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          10,
+          10
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "gathering5",
+        "showlegend": false,
+        "text": [
+          "<i>2020-03-21</i><br>ban of gatherings > 5 people <br> SR 818.101.24 COVID-19-Verordnung 3, 13.3.2020, Version from 20.3.2020",
+          "<i>9999-01-01</i><br>end of ban of gatherings > 5 people <br>"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-21",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          2,
+          2
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "handwashing",
+        "showlegend": false,
+        "text": [
+          "<i>2020-03-02</i><br>FOPH communicates additional hygiene rules",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-02",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          1,
+          1
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "partialBorderClosure",
+        "showlegend": false,
+        "text": [
+          "<i>2020-03-13</i><br>partial border closure <br> SR 818.101.24 COVID-19-Verordnung 2, 13.3.2020",
+          "<i>9999-01-01</i><br>end of partial border closure"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-13",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          9,
+          9
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "schoolClosure",
+        "showlegend": false,
+        "text": [
+          "<i>2020-03-16</i><br>school closure <br> SR 818.101.24 COVID-19-Verordnung 3, 13.3.2020",
+          "<i>2020-05-11</i><br>end of partial border closure <br> SR 818.101.24 COVID-19-Verordnung 3, 13.3.2020"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-03-16",
+          "2020-05-11"
+        ],
+        "xaxis": "x",
+        "y": [
+          7,
+          7
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "testing1",
+        "showlegend": false,
+        "text": [
+          "<i>2020-02-01</i><br>testing of all symptomatic patients",
+          "<i>2020-03-06</i><br>stop testing of all symptomatic patients"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-02-01",
+          "2020-03-06"
+        ],
+        "xaxis": "x",
+        "y": [
+          0,
+          0
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "hoverinfo": [
+          "text",
+          "text"
+        ],
+        "hoveron": "points",
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "markers+lines",
+        "name": "testing2",
+        "showlegend": false,
+        "text": [
+          "<i>2020-04-23</i><br>testing of all symptomatic patients",
+          "<i>9999-01-01</i><br>stop testing of all symptomatic patients"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "type": "scatter",
+        "x": [
+          "2020-04-23",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          0,
+          0
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "closureAll",
+        "showlegend": false,
+        "text": [
+          "closure of all stores and markets",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-03-17",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          6,
+          6
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "closureBars",
+        "showlegend": false,
+        "text": [
+          "closure of restaurants and bars",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-03-17",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          3,
+          3
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "closureHair",
+        "showlegend": false,
+        "text": [
+          "closure of hairdresser, hardware stores & garden centers",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-03-17",
+          "2020-04-27"
+        ],
+        "xaxis": "x",
+        "y": [
+          4,
+          4
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "closureZoo",
+        "showlegend": false,
+        "text": [
+          "closure of museums, zoos, etc.",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-03-17",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          5,
+          5
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "event100",
+        "showlegend": false,
+        "text": [
+          "ban of events > 100 people",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-03-13",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          8,
+          8
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "event1000",
+        "showlegend": false,
+        "text": [
+          "ban of events > 1000 people",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-02-28",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          10,
+          10
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "gathering5",
+        "showlegend": false,
+        "text": [
+          "ban of gatherings > 5 people",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-03-21",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          2,
+          2
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "handwashing",
+        "showlegend": false,
+        "text": [
+          "additional hygiene rules",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-03-02",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          1,
+          1
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "partialBorderClosure",
+        "showlegend": false,
+        "text": [
+          "partial border closure",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-03-13",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          9,
+          9
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "schoolClosure",
+        "showlegend": false,
+        "text": [
+          "school closure",
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top right",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-03-16",
+          "2020-05-11"
+        ],
+        "xaxis": "x",
+        "y": [
+          7,
+          7
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "testing1",
+        "showlegend": false,
+        "text": [
+          "testing of all symptomatic patients",
+          "testing of all symptomatic patients"
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top left",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-02-01",
+          "2020-03-06"
+        ],
+        "xaxis": "x",
+        "y": [
+          0,
+          0
+        ],
+        "yaxis": "y3"
+      },
+      {
+        "error_x": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "error_y": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "frame": null,
+        "line": {
+          "color": "rgba(80,80,80,1)"
+        },
+        "marker": {
+          "color": "rgba(80,80,80,1)",
+          "line": {
+            "color": "rgba(80,80,80,1)"
+          }
+        },
+        "mode": "text",
+        "name": "testing2",
+        "showlegend": false,
+        "text": [
+          null,
+          null
+        ],
+        "textfont": {
+          "color": "rgba(80,80,80,1)",
+          "size": 10
+        },
+        "textposition": [
+          "top middle",
+          "top right"
+        ],
+        "type": "scatter",
+        "x": [
+          "2020-04-23",
+          "9999-01-01"
+        ],
+        "xaxis": "x",
+        "y": [
+          0,
+          0
+        ],
+        "yaxis": "y3"
+      }
+    ],
+    "highlight": {
+      "debounce": 0,
+      "dynamic": false,
+      "on": "plotly_click",
+      "opacityDim": 0.2,
+      "persistent": false,
+      "selected": {
+        "opacity": 1
+      },
+      "selectize": false
+    },
+    "layout": {
+      "annotations": [
+        {
+          "align": "left",
+          "font": {
+            "color": "red"
+          },
+          "showarrow": false,
+          "text": "<e2><86><91> exponential increase<br>in number of new cases",
+          "textangle": 0,
+          "x": "2020-02-23",
+          "xanchor": "left",
+          "xref": "x",
+          "y": 1.2,
+          "yanchor": "middle",
+          "yref": "y2"
+        },
+        {
+          "align": "left",
+          "font": {
+            "color": "red"
+          },
+          "showarrow": false,
+          "text": "<e2><86><93> decrease in number of new cases",
+          "textangle": 0,
+          "x": "2020-02-23",
+          "xanchor": "left",
+          "xref": "x",
+          "y": 0.9,
+          "yanchor": "middle",
+          "yref": "y2"
+        },
+        {
+          "font": {
+            "color": "black",
+            "size": 10
+          },
+          "showarrow": false,
+          "text": "Data Source: FOPH (2020-04-30); openZH (2020-05-02)",
+          "x": 1,
+          "xanchor": "right",
+          "xref": "paper",
+          "xshift": 0,
+          "y": -0.1,
+          "yanchor": "auto",
+          "yref": "paper",
+          "yshift": 0
+        },
+        {
+          "align": "left",
+          "font": {
+            "color": "black",
+            "size": 11
+          },
+          "showarrow": false,
+          "text": "<b>*</b>&nbsp;This is the most recent<br>possible R<sub>e</sub> estimate due to <br>delays between infection and</br>the last data observation",
+          "x": 1,
+          "xanchor": "left",
+          "xref": "paper",
+          "xshift": 10,
+          "y": 0.35,
+          "yanchor": "bottom",
+          "yref": "paper",
+          "yshift": 0
+        },
+        {
+          "align": "left",
+          "bgcolor": "#eeeeee",
+          "font": {
+            "color": "black",
+            "size": 11
+          },
+          "height": 90,
+          "showarrow": false,
+          "text": "&nbsp;<b>Interactive Plot</b><br>&nbsp;&nbsp;\u2022 click legend to toggle<br>&nbsp;&nbsp;&nbsp;&nbsp;datatypes. Double-click to<br>&nbsp;&nbsp;&nbsp;&nbsp;isolate.<br>&nbsp;&nbsp;\u2022 hover over bars/points<br>&nbsp;&nbsp;&nbsp;&nbsp;for details",
+          "valign": "top",
+          "width": 174,
+          "x": 1,
+          "xanchor": "left",
+          "xref": "paper",
+          "xshift": 10,
+          "y": 0.8,
+          "yanchor": "top",
+          "yref": "paper",
+          "yshift": 0
+        }
+      ],
+      "hovermode": "closest",
+      "images": [],
+      "legend": {
+        "title": {
+          "text": "<b>Data Type</b>"
+        }
+      },
+      "margin": {
+        "b": 40,
+        "l": 60,
+        "r": 10,
+        "t": 25
+      },
+      "shapes": [
+        {
+          "line": {
+            "color": "red",
+            "width": 0.5
+          },
+          "type": "line",
+          "x0": "2020-02-23",
+          "x1": "2020-05-03",
+          "xref": "x",
+          "y0": 1,
+          "y1": 1,
+          "yref": "y2"
+        }
+      ],
+      "showlegend": true,
+      "xaxis": {
+        "anchor": "y3",
+        "automargin": true,
+        "domain": [
+          0,
+          1
+        ],
+        "dtick": 259200000,
+        "fixedrange": true,
+        "range": [
+          "2020-02-23",
+          "2020-05-03"
+        ],
+        "showgrid": true,
+        "tick0": "2020-02-23",
+        "tickangle": 45,
+        "tickformat": "%b-%d",
+        "title": "",
+        "type": "date"
+      },
+      "yaxis": {
+        "anchor": "x",
+        "automargin": true,
+        "domain": [
+          0.666666666666667,
+          1
+        ],
+        "fixedrange": true,
+        "title": {
+          "font": {
+            "size": 14
+          },
+          "text": "New observations"
+        }
+      },
+      "yaxis2": {
+        "anchor": "x",
+        "automargin": true,
+        "domain": [
+          0.333333333333333,
+          0.646666666666667
+        ],
+        "fixedrange": true,
+        "range": [
+          0,
+          2
+        ],
+        "title": {
+          "font": {
+            "size": 14
+          },
+          "text": "Reproductive number R<sub>e</sub>"
+        },
+        "zeroline": true
+      },
+      "yaxis3": {
+        "anchor": "x",
+        "automargin": true,
+        "domain": [
+          0,
+          0.313333333333333
+        ],
+        "fixedrange": true,
+        "title": "y",
+        "visible": false
+      }
+    },
+    "shinyEvents": [
+      "plotly_hover",
+      "plotly_click",
+      "plotly_selected",
+      "plotly_relayout",
+      "plotly_brushed",
+      "plotly_brushing",
+      "plotly_clickannotation",
+      "plotly_doubleclick",
+      "plotly_deselect",
+      "plotly_afterplot",
+      "plotly_sunburstclick"
+    ],
+    "source": "A",
+    "subplot": true
+  }
+}
