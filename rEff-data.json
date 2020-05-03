@@ -3850,7 +3850,7 @@
             "color": "red"
           },
           "showarrow": false,
-          "text": "<e2><86><91> exponential increase<br>in number of new cases",
+          "text": "&uarr; exponential increase<br>in number of new cases",
           "textangle": 0,
           "x": "2020-02-23",
           "xanchor": "left",
@@ -3865,7 +3865,7 @@
             "color": "red"
           },
           "showarrow": false,
-          "text": "<e2><86><93> decrease in number of new cases",
+          "text": "&darr; decrease in number of new cases",
           "textangle": 0,
           "x": "2020-02-23",
           "xanchor": "left",
